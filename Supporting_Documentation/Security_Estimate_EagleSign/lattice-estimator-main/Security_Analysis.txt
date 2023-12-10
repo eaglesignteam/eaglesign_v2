@@ -1,0 +1,21 @@
+Longterm Secret key recovery 
+BKZ block-size b to break LWE	 &	444 &	696 &	741 &	1649\\
+Best Known Classical bit-cost	 &	129 &	203 &	216 &	481\\
+Best Known Quantum bit-cost	 &	117 &	184 &	196 &	436\\
+Best Plausible bit-cost	 &	92 &	144 &	153 &	342\\
+
+
+
+Ephemeral secret key recovery 
+BKZ block-size b to break LWE	 &	439 &	713 &	764 &	870\\
+Best Known Classical bit-cost	 &	128 &	208 &	223 &	254\\
+Best Known Quantum bit-cost	 &	116 &	188 &	202 &	230\\
+Best Plausible bit-cost	 &	91 &	147 &	158 &	180\\
+
+
+
+Strong Unforgeable 
+BKZ block-size b to break LWE	 &	607 &	867 &	748 &	869\\
+Best Known Classical bit-cost	 &	177 &	253 &	218 &	253\\
+Best Known Quantum bit-cost	 &	160 &	229 &	198 &	230\\
+Best Plausible bit-cost	 &	125 &	179 &	155 &	180\\
